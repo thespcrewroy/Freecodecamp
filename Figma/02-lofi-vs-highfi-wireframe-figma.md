@@ -19,11 +19,7 @@
 * Pick one color only for the buttons
 * Pick a boring font and a boring color
 
-## Hi-Fidelity
-* Can take hours to generate
 
-
-## Lo-Fidelity Examples
 <p align="center">
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/lowvhigh.png" alt="Wireframe Example" width="800" />
 </p>
@@ -45,7 +41,8 @@
 </p>
 
 
-## Hi-Fidelity Examples
+## Hi-Fidelity
+* Can take hours to generate
 
 <p align="center">
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/hifi.png" alt="Hifi Wireframe Example" width="800" />
