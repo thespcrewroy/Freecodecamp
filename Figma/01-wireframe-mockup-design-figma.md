@@ -19,7 +19,7 @@
 * Copy paste your wireframe svg file and put it to the side of the canvas as a reference
 * Make the height of the page 2600
 
-## Hero Banner
+### Hero Banner
 * **New figma file:** *drafts → “+” → new design file*
 * **Create a new canvas:** *Frame → Desktop → Desktop*
 * Change width and height to 1980 x 1980
@@ -68,7 +68,7 @@
     * Make it regular weight
     * Make it 66% opacity
 
-## About Us
+### About Us
 * Copy and paste rectangle from above
     * Change hex color to F1F1F1
 * Create a square frame to represent the image
@@ -97,7 +97,7 @@
     * Group the header bar together as “Menu”
     * Pull the logo outside the Hero section as we are going to reuse it in other pages
 
-## Sponsors
+### Sponsors
 * Copy and Paste “About Us” section to y-coordinate 1600
 * Remove description and read more button
 * Put the title and subtitle at the top of the section
@@ -108,17 +108,17 @@
 * Apply the same tint as the hero section to sponsor section
 * Center the title, subtitle, and image frames on the y-axis 
 
-## Footer
+### Footer
 * Use the darker home box frame from the title bar as the frame for the footer
 * Expand the canvas height to 3050
 * Expand the footer height to 820
 
-## Copyright
+### Copyright
 * Make a box frame at the bottom
     * Set its height to 100
     * Set its hex color to 333333
 
-## Mobile Version
+### Mobile Version
 * **Create a new canvas:** *Frame → Phone → Latest iPhone Model*
 * Select a new frame and choose the latest iPhone pro max version
 * Banner Page
@@ -126,7 +126,7 @@
     * Remove the slider buttons as you can just use your fingers
 * Copyp over elements from the PC design but making it smaller and more akin to an iPhone UI
 
-# Website Mockup
+## Website Mockup
 
 
 
