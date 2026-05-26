@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wirefram2.png" alt="Lofi Wireframe Example" width="800" />
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframe2.png" alt="Lofi Wireframe Example" width="800" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframe3h.png" alt="Lofi Wireframe Example" width="800" />
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframee3.png" alt="Lofi Wireframe Example" width="800" />
 </p>
 
 <p align="center">
