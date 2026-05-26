@@ -21,6 +21,11 @@
 - You can branch out subpages
 - If some pages are linked to others, you can draw arrows to show that
 
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/sitemap.png" alt="Sitemap" width="800" />
+</p>
+
+
 # Home Page
 
 - Usually represents the design we are going to utilize for the rest of the pages
