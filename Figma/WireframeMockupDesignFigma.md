@@ -9,25 +9,14 @@
     />
   </a>
 
-# Wireframing
+## Wireframing
 - A visual blueprint of how a website will work and the pages themselves
 - Works as a schema for the functionality of a system
 - You can sketch it on a piece of paper, an ipad, or on a software
 - Keep a consistent header and footer throughout all webpages
 - Avoid redundant markups or labels
 
-## Site Map
-- Gives your website directions so you know what pages you are building
-- Start with home page
-- Write out the most core pages
-- You can branch out subpages
-- If some pages are linked to others, you can draw arrows to show that
-
-<p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/sitemap.png" alt="Sitemap" width="800" />
-</p>
-
-## Terminology and Symbols
+### Terminology and Symbols
 * **Hero Banner:** big gigantic image that runs behind the website
 * **Slider Image:** dots at the bottom and arrows on the side
 * **Image:** draw a box with a cross through it
@@ -38,7 +27,18 @@
 * **Darker Color Section:** section drawing with diagonal lines accross top edge
 * **Logo:** draw a clock
 
-## Home Page
+### Site Map
+- Gives your website directions so you know what pages you are building
+- Start with home page
+- Write out the most core pages
+- You can branch out subpages
+- If some pages are linked to others, you can draw arrows to show that
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/sitemap.png" alt="Sitemap" width="800" />
+</p>
+
+### Home Page
 - Usually represents the design we are going to utilize for the rest of the pages
 - Make the page at least 12 columns
 - **Header:** Cntainst navigation information. Create basic representations of the logo and menu
@@ -51,7 +51,7 @@
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/home.png" alt="Home Page" height="600" width="300" />
 </p>
 
-## Features Page
+### Features Page
 - The page that really has to promote your product/website
 - Contains more photos, text, and call to actions to engage the customer
 - **Title Section:** below the hero banner and will eventually be themed
@@ -60,7 +60,7 @@
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/features.png" alt="Features Page" height="600" width="300" />
 </p>
 
-# Contact Us Page
+### Contact Us Page
 - Phone Number
 - Email
 - **Map:** points to the location of the company
@@ -70,7 +70,7 @@
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/contact.png" alt="Contact Us Page" height="600" width="300" />
 </p>
 
-# Mobile Version
+### Mobile Version
 - A lot longer than the actual home page
 - Add slightly different elements
 - Add a button for the menu
@@ -80,7 +80,7 @@
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/features.png" alt="Mobile Page" height="600" width="300" />
 </p>
 
-# Navigation
+### Navigation
 - Draw arrows from one page to the other
 - The bar in the home page title banner will take us to the features page
 - The button in the “About Us” section will take us to the Features Paged
@@ -89,7 +89,7 @@
   <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/navigation.png" alt="Navigation" height="600" width="300" />
 </p>
 
-# UI Layout
+## UI Layout
 
 - More professional version of wireframe
 - Closer step to creating a full website design
