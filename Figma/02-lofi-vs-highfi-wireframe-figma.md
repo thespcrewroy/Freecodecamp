@@ -10,15 +10,47 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/lowvhigh.png" alt="Low v. High Wireframe" width="800" />
-</p>
 
 ## Lo-Fidelity
 * Really quick to make
 * Tests the mechanics of a website with an audience
 * Never skip the lo-fi wireframe section
 * Takes a few minutes
+* Pick one color only for the buttons
+* Pick a boring font and a boring color
 
 ## Hi-Fidelity
 * Can take hours to generate
+
+
+## Lo-Fidelity Examples
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/lowvhigh.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wirefram2.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframe3h.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframe4.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/wireframe5.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+
+## Hi-Fidelity Examples
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/hifi.png" alt="Low v. High Wireframe" width="800" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/hifi2.png" alt="Low v. High Wireframe" width="800" />
+</p>
