@@ -86,7 +86,7 @@
 - The button in the “About Us” section will take us to the Features Paged
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/navigation.png" alt="Navigation" height="600" width="300" />
+  <img src="https://github.com/thespcrewroy/YouTube/blob/main/assets/navigation.png" alt="Navigation" height="800" width="900" />
 </p>
 
 ## UI Layout
